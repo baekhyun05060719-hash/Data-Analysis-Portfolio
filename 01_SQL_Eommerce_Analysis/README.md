@@ -1,31 +1,52 @@
-# E-commerce User Behavior Analysis
+# 电商用户行为分析项目
 
-## Project Background
+## 项目背景
 
-This project analyzes user behavior data from an e-commerce platform.
+随着互联网电商的发展，用户行为分析对于提升平台转化率和用户留存具有重要意义。
 
-The goal is to understand user conversion and purchasing behavior.
+本项目基于淘宝用户行为数据，
+使用SQL完成用户行为分析。
 
-## Dataset
+---
 
-User behavior dataset including:
+## 数据集介绍
 
-- user_id
-- item_id
-- category
-- behavior_type
-- timestamp
+数据来源：
 
-## Analysis Questions
+阿里天池用户行为数据集
 
-1. How many users visited the platform?
 
-2. What is the conversion rate?
+字段包括：
 
-3. Which products perform best?
+- 用户ID
+- 商品ID
+- 商品类别
+- 行为类型
+- 时间戳
 
-## Tools
+
+---
+
+## 分析目标
+
+1. 分析用户访问行为
+
+2. 计算用户购买转化率
+
+3. 分析不同商品表现
+
+
+---
+
+## 使用工具
 
 - SQL
 - MySQL
 - GitHub
+
+
+---
+
+## 分析结果
+
+待完成
